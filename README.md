@@ -1,6 +1,6 @@
 ## Getting Started
 
-First, enter the following commands in order to run the development server:
+To run the project locally, execute the following commands in order:
 
 ```bash
 npm install          # Install dependencies
